@@ -1,0 +1,1 @@
+void A_single(char* init_path);
