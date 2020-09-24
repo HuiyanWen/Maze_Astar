@@ -61,5 +61,5 @@
 ### 单向A*结果
 ![](https://github.com/HuiyanWen/Maze_Astar/blob/master/pic/%E5%88%9D%E5%A7%8B1.png)
 
-###双向A*结果
+### 双向A*结果
 ![](https://github.com/HuiyanWen/Maze_Astar/blob/master/pic/%E5%88%9D%E5%A7%8B2.png)
